@@ -1,7 +1,3 @@
 # zweiter-Versuch-GitHub
 Wir korrigieren etwas
-
-def hallo (name):
-    return f" Hallo {name}."
-
-print (hallo("Anna"))
+Hier wird gesagt, wie wir unser Programm Schritt für Schritt gemacht haben und welche tools wir dabei benutzt haben.
