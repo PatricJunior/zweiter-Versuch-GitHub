@@ -7,3 +7,4 @@ def quadrat(zahl):
     return f" Das Quadrat von {zahl} ist {zahl*zahl} "
 
 print (quadrat (50))
+
